@@ -24,11 +24,6 @@ Questo progetto ha lo scopo di creare un sito web dove le persone possono docume
 - **Collaborazione con le Forze dell'Ordine:** Collaborazione con la polizia per migliorare l'efficacia delle segnalazioni.
 - **Monitoraggio Continuo:** Mantenere il sito aggiornato e rispondere ai feedback.
 
-## Come Contribuire
-Le contribuzioni sono benvenute! Se sei interessato a contribuire:
-1. Fai un fork del repository.
-2. Crea un nuovo branch per la tua funzionalità.
-3. Invia una pull request con le tue modifiche.
 
 ## Contatti
 Per qualsiasi domanda o suggerimento, non esitare a contattarci via email: [bikewatchsite@aol.com](mailto:bikewatchsite@aol.com).
@@ -61,11 +56,6 @@ This project aims to create a website where people can document bicycle thefts i
 - **Law Enforcement Collaboration:** Collaborating with police to enhance report effectiveness.
 - **Continuous Monitoring:** Keeping the site updated and responding to feedback.
 
-## How to Contribute
-Contributions are welcome! If you're interested in contributing:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Submit a pull request with your changes.
 
 ## Contact
 For any questions or suggestions, feel free to reach out via email: [bikewatchsite@aol.com](mailto:bikewatchsite@aol.com).
